@@ -1,22 +1,34 @@
 ::: {align="center"}
-Muhammad Ali Zahid
-Product Engineer • Full-Stack Software Engineer
+# Muhammad Ali Zahid
+
+### Product Engineer • Full-Stack Software Engineer
+
 `<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+production-ready+software.;Product+Engineer.;Full-Stack+Software+Engineer.;AI+Integration+%7C+System+Design+%7C+Cloud."/>`{=html}
-Building software from idea to deployment.
-![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+Building software **from idea to deployment**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadalizahid.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-zahid6/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadalizahid0621@gmail.com)
 :::
----
-👨‍💻 About Me
-Computer Science student at UET Lahore passionate about engineering
+
+------------------------------------------------------------------------
+
+# 👨‍💻 About Me
+
+Computer Science student at **UET Lahore** passionate about engineering
 software that solves real-world problems.
+
 I enjoy architecting scalable systems, building polished user
 experiences, integrating AI where it creates value, and shipping
 complete products.
----
-🧠 Tech Universe
-Frontend
+
+------------------------------------------------------------------------
+
+# 🧠 Tech Universe
+
+### Frontend
+
 ```{=html}
 <p>
 ```
@@ -24,7 +36,8 @@ Frontend
 ```{=html}
 </p>
 ```
-Backend
+### Backend
+
 ```{=html}
 <p>
 ```
@@ -32,7 +45,8 @@ Backend
 ```{=html}
 </p>
 ```
-Databases
+### Databases
+
 ```{=html}
 <p>
 ```
@@ -40,7 +54,8 @@ Databases
 ```{=html}
 </p>
 ```
-Cloud & DevOps
+### Cloud & DevOps
+
 ```{=html}
 <p>
 ```
@@ -48,29 +63,45 @@ Cloud & DevOps
 ```{=html}
 </p>
 ```
-AI
-LLM Integration
-OpenAI APIs
-Computer Vision
-Prompt Engineering
-AI Automation
----
-🚀 Featured Projects
-🌐 RomoConnect
+### AI
+
+-   LLM Integration
+-   OpenAI APIs
+-   Computer Vision
+-   Prompt Engineering
+-   AI Automation
+
+------------------------------------------------------------------------
+
+# 🚀 Featured Projects
+
+## 🌐 RomoConnect
+
 Enterprise CRM with omnichannel communication, AI contextual replies,
 Stripe, Twilio, SendGrid, RBAC and Next.js.
-🏢 Equip Manager
+
+## 🏢 Equip Manager
+
 Enterprise equipment management platform built with PHP CodeIgniter
 (MVC), authentication, Stripe and SMTP workflows.
-🧠 Human Facial Expression Detection
+
+## 🧠 Human Facial Expression Detection
+
 Real-time computer vision project using live camera inference.
-💻 Wordify
+
+## 💻 Wordify
+
 Electron desktop utility for instant word definitions across the
 operating system.
-🏥 Hospital Display System
+
+## 🏥 Hospital Display System
+
 Production Electron.js deployment for healthcare environments.
----
-📈 GitHub Analytics
+
+------------------------------------------------------------------------
+
+# 📈 GitHub Analytics
+
 ```{=html}
 <p align="center">
 ```
@@ -100,26 +131,41 @@ Production Electron.js deployment for healthcare environments.
 ```{=html}
 </p>
 ```
----
-🎯 Currently Building
-Premium developer portfolio
-AI-powered software
-Modern SaaS products
-Advanced system design skills
-Scalable cloud architecture
----
-💡 Engineering Philosophy
+
+------------------------------------------------------------------------
+
+# 🎯 Currently Building
+
+-   Premium developer portfolio
+-   AI-powered software
+-   Modern SaaS products
+-   Advanced system design skills
+-   Scalable cloud architecture
+
+------------------------------------------------------------------------
+
+# 💡 Engineering Philosophy
+
 > Build products, not demos.
+
 > Simplicity scales.
+
 > Performance is a feature.
+
 > Great engineering is invisible.
----
-🌍 Connect
-🌐 Portfolio: https://muhammadalizahid.vercel.app
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-ali-zahid6/
-📧 Email: muhammadalizahid0621@gmail.com
----
+
+------------------------------------------------------------------------
+
+# 🌍 Connect
+
+-   🌐 Portfolio: https://muhammadalizahid.vercel.app
+-   💼 LinkedIn: https://www.linkedin.com/in/muhammad-ali-zahid6/
+-   📧 Email: muhammadalizahid0621@gmail.com
+
+------------------------------------------------------------------------
+
 ::: {align="center"}
-Building ideas. Engineering solutions. Delivering impact.
+### Building ideas. Engineering solutions. Delivering impact.
+
 `<img src="https://komarev.com/ghpvc/?username=muhammadalizahidd&style=for-the-badge&color=2563EB"/>`{=html}
 :::
