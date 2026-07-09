@@ -209,6 +209,6 @@ Focused on:
 
 ### Building ideas. Engineering solutions. Delivering impact.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=muhammadalizahidd&style=for-the-badge&color=2563EB"/>
 
 </div>
