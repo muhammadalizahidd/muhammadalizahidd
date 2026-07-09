@@ -120,7 +120,7 @@ Features
 
 ---
 
-## Wordify
+## Wordifine
 
 Electron desktop application.
 
