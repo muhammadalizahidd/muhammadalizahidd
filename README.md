@@ -1,214 +1,125 @@
-<div align="center">
-
-# Muhammad Ali Zahid
-
-### Product Engineer • Full Stack Software Engineer
-
-Building production-ready software—from idea to deployment.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-zahid6/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.COM)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadalizahid0621@gmail.com)
-
-</div>
-
+::: {align="center"}
+Muhammad Ali Zahid
+Product Engineer • Full-Stack Software Engineer
+`<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+production-ready+software.;Product+Engineer.;Full-Stack+Software+Engineer.;AI+Integration+%7C+System+Design+%7C+Cloud."/>`{=html}
+Building software from idea to deployment.
+![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+:::
 ---
-
-# Engineering Focus
-
-I build complete software products rather than isolated applications.
-
-My primary interests include:
-
-- Designing scalable software architecture
-- Engineering production-ready SaaS products
-- Full-stack web development
-- AI-powered software
-- Desktop applications
-- Cloud infrastructure & deployment
-- Modern backend systems
-- Product engineering
-
+👨‍💻 About Me
+Computer Science student at UET Lahore passionate about engineering
+software that solves real-world problems.
+I enjoy architecting scalable systems, building polished user
+experiences, integrating AI where it creates value, and shipping
+complete products.
 ---
-
-# Tech Stack
-
-## Frontend
-
+🧠 Tech Universe
+Frontend
+```{=html}
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
+```
+`<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css"/>`{=html}
+```{=html}
 </p>
-
-## Backend
-
+```
+Backend
+```{=html}
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/>`{=html}
+```{=html}
 </p>
-
-## Databases
-
+```
+Databases
+```{=html}
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
+```
+`<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase"/>`{=html}
+```{=html}
 </p>
-
-## Cloud & DevOps
-
+```
+Cloud & DevOps
+```{=html}
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,github,git,linux" />
+```
+`<img src="https://skillicons.dev/icons?i=docker,aws,vercel,github,git,linux"/>`{=html}
+```{=html}
 </p>
-
-## AI & Machine Learning
-
-- OpenAI APIs
-- LLM Integration
-- AI Automation
-- Computer Vision
-- Prompt Engineering
-- Real-Time AI Systems
-
+```
+AI
+LLM Integration
+OpenAI APIs
+Computer Vision
+Prompt Engineering
+AI Automation
 ---
-
-# Featured Engineering Projects
-
-## RomoConnect
-
-Production CRM platform built with Next.js.
-
-**Highlights**
-
-- Unified Communication Platform
-- WhatsApp Integration
-- SMS
-- Voice
-- Email
-- AI Contextual Auto Replies
-- Stripe Payments
-- RBAC
-- Twilio
-- SendGrid
-- Custom SMTP
-- Production Deployment
-
+🚀 Featured Projects
+🌐 RomoConnect
+Enterprise CRM with omnichannel communication, AI contextual replies,
+Stripe, Twilio, SendGrid, RBAC and Next.js.
+🏢 Equip Manager
+Enterprise equipment management platform built with PHP CodeIgniter
+(MVC), authentication, Stripe and SMTP workflows.
+🧠 Human Facial Expression Detection
+Real-time computer vision project using live camera inference.
+💻 Wordify
+Electron desktop utility for instant word definitions across the
+operating system.
+🏥 Hospital Display System
+Production Electron.js deployment for healthcare environments.
 ---
-
-## Equip Manager
-
-Enterprise equipment management platform.
-
-Built using:
-
-- PHP
-- CodeIgniter
-- MVC
-- Stripe
-- Authentication
-- SMTP
-- Enterprise Architecture
-
+📈 GitHub Analytics
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadalizahidd&show_icons=true&theme=github_dark&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalizahidd&theme=github-dark&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadalizahidd&theme=github-compact"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadalizahidd&theme=github_dark"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=muhammadalizahidd&theme=algolia&no-frame=true&column=4"/>`{=html}
+```{=html}
+</p>
+```
 ---
-
-## Human Facial Expression Detection
-
-Real-time computer vision application.
-
-Features
-
-- Live Camera Processing
-- Facial Expression Recognition
-- Deep Learning
-- AI Inference Pipeline
-
+🎯 Currently Building
+Premium developer portfolio
+AI-powered software
+Modern SaaS products
+Advanced system design skills
+Scalable cloud architecture
 ---
-
-## Wordifine
-
-Electron desktop application.
-
-Instantly retrieve the meaning of any selected word across the operating system.
-
----
-
-## Hospital Display System
-
-Production Electron.js application deployed for healthcare.
-
-Focused on:
-
-- Reliability
-- Stability
-- Real-time Updates
-- Production Deployment
-
----
-
-# Currently Exploring
-
-- Advanced System Design
-- Distributed Systems
-- AI Agents
-- RAG Architectures
-- Kubernetes
-- Event-Driven Architecture
-- Scalable SaaS Infrastructure
-
----
-
-# GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
-
-</div>
-
----
-
-# Engineering Philosophy
-
+💡 Engineering Philosophy
 > Build products, not demos.
-
 > Simplicity scales.
-
 > Performance is a feature.
-
-> Maintainability beats cleverness.
-
-> Great software solves business problems.
-
+> Great engineering is invisible.
 ---
-
-# Connect
-
-- LinkedIn → https://www.linkedin.com/in/muhammad-ali-zahid6/
-- Email → muhammadalizahid0621@gmail.com
-- Portfolio → Coming Soon
-
+🌍 Connect
+🌐 Portfolio: https://muhammadalizahid.vercel.app
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-ali-zahid6/
+📧 Email: muhammadalizahid0621@gmail.com
 ---
-
-<div align="center">
-
-### Building ideas. Engineering solutions. Delivering impact.
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB"/>
-
-</div>
+::: {align="center"}
+Building ideas. Engineering solutions. Delivering impact.
+`<img src="https://komarev.com/ghpvc/?username=muhammadalizahidd&style=for-the-badge&color=2563EB"/>`{=html}
+:::
