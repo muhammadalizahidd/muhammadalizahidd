@@ -4,7 +4,7 @@
 
 ### Product Engineer • Full Stack Software Engineer
 
-Building production-ready software—from idea to deployment.
+Building production-ready software, from idea to deployment.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-zahid6/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadalizahid.vercel.app)
@@ -208,7 +208,5 @@ Focused on:
 <div align="center">
 
 ### Building ideas. Engineering solutions. Delivering impact.
-
-<img src="https://komarev.com/ghpvc/?username=muhammadalizahidd&style=for-the-badge&color=2563EB"/>
 
 </div>
